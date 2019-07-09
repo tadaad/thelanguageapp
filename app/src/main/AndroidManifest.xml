@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tadinnovativeminds.aad.thelanguageapp">
+
+    <application
+
+
+        android:icon="@mipmap/icon"
+
+        android:label="@string/app_name"
+
+
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.lang"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.quiz"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.choice2"
+
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard1"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard2"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard3"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard4"
+            android:screenOrientation="portrait"
+
+            ></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard5"
+
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard6"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard7"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard8"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ghard9"
+            android:screenOrientation="portrait"
+
+            ></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.ggrid"
+
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.gnum"
+            android:label="number"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.gcolours"
+            android:label="colours"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.gmonth"
+            android:label="month"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.gintro"
+            android:label="intro"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.gweek"
+            android:label="week"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.gseason"
+            android:label="family"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.choice"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.grid"
+            android:screenOrientation="portrait" />
+
+
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.months"
+            android:label="months"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.colours"
+            android:label="color"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.MainActivity"
+            android:label="Welcome Learners"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard13"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.BossAct"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard1"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard2"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard3"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard4"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard5"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard6"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard7"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.hard8"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.numbers"
+            android:label="numbers"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.introduction"
+            android:label="introduction"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.seasons"
+            android:label="seasons"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.intro_activity"
+            android:screenOrientation="portrait"></activity>
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.weeks"
+            android:label="weeks"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.MainActivity2"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.tadinnovativeminds.aad.thelanguageapp.splash"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

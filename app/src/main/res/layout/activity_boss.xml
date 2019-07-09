@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgapp"
+    android:orientation="vertical"
+    tools:context="com.tadinnovativeminds.aad.thelanguageapp.MainActivity">
+
+    <TextView
+        android:id="@+id/textScreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="CONGRATULATION"
+        android:textColor="#FFF"
+        android:textSize="22sp" />
+
+
+    <ImageView
+        android:id="@+id/bigboss"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:src="@drawable/icboss" />
+
+
+    <TextView
+        android:id="@+id/textQuestion"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="Well Done! More Questions Coming Soon.."
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/textTitle"
+        android:layout_width="280dp"
+        android:layout_height="70dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/bgbtn"
+        android:paddingBottom="10dp"
+        android:text="Home"
+        android:textAllCaps="false"
+        android:textColor="@color/colorPurple"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/textBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:text="The Language APP"
+        android:textColor="#AD87FF"
+        android:textSize="22sp" />
+
+</LinearLayout>

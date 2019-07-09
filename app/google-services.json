@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873438257499",
+    "firebase_url": "https://projectino-da45d.firebaseio.com",
+    "project_id": "projectino-da45d",
+    "storage_bucket": "projectino-da45d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873438257499:android:4463016389ba98cc",
+        "android_client_info": {
+          "package_name": "android.tadinnovativeminds.android.thelanguageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873438257499-8m01gmmb70p195asqfck5hi6gf2lupc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.tadinnovativeminds.android.thelanguageapp",
+            "certificate_hash": "336d8727da0f5c9f8f482255f28ffa5be2010349"
+          }
+        },
+        {
+          "client_id": "873438257499-n6mh60k6eqo4l44jthfuh62l04locg75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKOeQ94UHjVWeR-ctyLD2ol3q3vzJxwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873438257499-n6mh60k6eqo4l44jthfuh62l04locg75.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
